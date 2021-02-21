@@ -1,0 +1,7 @@
+This Advanced Planar Stripe HEXFET ® Power MOSFET utilizes
+the latest processing techniques to achieve extremely low on-
+resistance per silicon area. Additional features of this HEXFET
+power MOSFET are a 175°C junction operating temperature, low
+RθJC, fast switching speed and improved repetitive avalanche
+rating. This combination makes the design an extremely efficient
+and reliable choice for use in a wide variety of applications.
